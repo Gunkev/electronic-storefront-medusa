@@ -22,7 +22,9 @@ const CheckoutTemplate = () => {
               </a>
             </Link>
             <Link href="/">
-              <a className="text-xl-semi">ACME</a>
+              <a className="text-xl-semi uppercase">
+                <img src="/logo.png" alt="" width={50} />
+              </a>
             </Link>
             <div className="flex-1 basis-0" />
           </nav>
