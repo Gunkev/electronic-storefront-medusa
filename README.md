@@ -6,7 +6,7 @@ This repository is the codebase of tutorial [Buiding an Electronic commerce stor
 
 ## Medusa Version
 
-This tutorial uses Medusa v1.7.12. It is not guaranteed that it will work with future releases.
+This tutorial uses Medusa v1.7.12 and Medusa CLI 1.3.8. It is not guaranteed that it will work with future releases.
 
 ## Prerequisites
 
