@@ -15,8 +15,8 @@ This tutorial uses Medusa v1.7.12 and Medusa CLI 1.3.8. It is not guaranteed tha
 - [Yarn](https://yarnpkg.com/) or npm(This tutorial uses Yarn)
 - A code editor like [VSCode](https://code.visualstudio.com/)
 - An [Algolia](https://www.algolia.com/) account
-  An [Stripe](A Stripe account) account
-- S3 for file upload service
+- An [Stripe](http://stripe.com/) account
+- [S3](https://docs.medusajs.com/plugins/file-service/s3) for file upload service
 
 ## How to Install
 
