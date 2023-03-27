@@ -6,39 +6,37 @@ This repository is the codebase of tutorial [Buiding an Electronic commerce stor
 
 ## Medusa Version
 
-This tutorial uses Medusa v<1.7.12>. It is not guaranteed that it will work with future releases.
+This tutorial uses Medusa v1.7.12. It is not guaranteed that it will work with future releases.
 
 ## Prerequisites
 
 - [Node.js at least v14](https://docs.medusajs.com/tutorial/set-up-your-development-environment#nodejs)
 - [Git](https://git-scm.com/)
-- [Yarn](https://yarnpkg.com/) or Npm(This tutorial uses Yarn)
-- A code editor like[VSCode](https://code.visualstudio.com/)
+- [Yarn](https://yarnpkg.com/) or npm(This tutorial uses Yarn)
+- A code editor like [VSCode](https://code.visualstudio.com/)
 - An [Algolia](https://www.algolia.com/) account
   An [Stripe](A Stripe account) account
 - S3 for file upload service
 
 ## How to Install
 
-_You may change these steps per your article._
-
 1. Clone this repository:
 
 ```bash
-git clone <url>
+git clone https://github.com/Gunkev/electronic-storefront-medusa.git
 ```
 
 2. Change directory and install dependencies:
 
 ```bash
-cd <directory>
-npm install
+cd electronic-storefront-medusa
+yarn
 ```
 
 3. Start Server:
 
 ```bash
-npm start
+yarn dev
 ```
 
 ## Other Resources
