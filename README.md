@@ -39,6 +39,5 @@ yarn
 yarn dev
 ```
 
-## Other Resources
 
-_If any other resources in our documentation or other documentations are relevant to the tutorial, add them here._
+
